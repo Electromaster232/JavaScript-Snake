@@ -1,3 +1,7 @@
+
+### This is a modified version of the original game (edits by Electromaster232), the original credits are below:
+
+
 JavaScript Snake<br/>
 By Patrick Gillespie<br/>
 License: MIT<br/>
